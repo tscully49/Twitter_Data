@@ -2,7 +2,8 @@
 
 ##### Final Project for CS4001
 
-**Authors:** Thomas Scully ([tscully49](https://github.com/tscully49))
+### Authors:
+Thomas Scully ([tscully49](https://github.com/tscully49))
 
 ## Packages
 
